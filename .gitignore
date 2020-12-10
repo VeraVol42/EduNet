@@ -1,0 +1,6 @@
+__pycache__/
+.idea
+py___jb_tmp___
+/node_modules/
+/venv/
+closet/
