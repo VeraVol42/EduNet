@@ -1,4 +1,7 @@
 .idea
+*.vs
 .ipynb_checkpoints
-__pycache__
-
+src/*.ipynb
+out/*/.ipynb_checkpoints
+*__pycache__
+*runs
