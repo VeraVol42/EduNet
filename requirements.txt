@@ -1,0 +1,7 @@
+sklearn
+pandas
+torch
+torchvision
+torchaudio
+tensorboard
+matplotlib
